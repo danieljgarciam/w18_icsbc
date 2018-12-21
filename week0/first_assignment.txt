@@ -1,7 +1,14 @@
 1) What are three interesting facts about you?
-
-
+1_ I have a 2 year old daughter.
+2_ The activity I enjoy is rock climbing.
+3_ I started to study late in life. So, if you see me you'll be confuse as if
+   I'm a professor or a PhD student, but I'm not either. I'm an undergrad
+   Mechanical Eng.
 2) What's your favorite song and movie?
-
-
+1_ I'm not a movie fan. But I enjoy documentaries and news.
+2_ Rolling Stones. All songs
 3) Why do you want to learn how to program?
+   Like I said, I'm studying mechanical engineering and I have used extensively
+   matlab and simulink to solve all my homework. Nevertheless, I want to learn
+   how to do real code since I feel it would be extremely beneficial for
+   developing new designs in my area.
